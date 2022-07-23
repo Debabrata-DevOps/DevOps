@@ -7,7 +7,6 @@ class Employee
 {
 	protected String comp = "Maventic Innovative Solution Pvt. Ltd.";
 	private String add = "AECS Layout, C-Block, Bengalore" ;
-	private String add = "Bengalore" ;
 	public int pin = 70001;
 	
 	protected void display1()
